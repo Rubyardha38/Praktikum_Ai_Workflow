@@ -1,8 +1,6 @@
 # Praktikum_Ai_Workflow
 2306138_Ruby Ardha A
 
-Tentu! Berikut versi yang lebih singkat dan dengan kata-kata yang sedikit diubah
-
 ## Deskripsi
 Proyek ini menggunakan AI untuk menganalisis dan memprediksi penjualan produk. Langkah-langkah utama:
 1. **Buat Dataset**: File CSV dengan data produk, jumlah terjual, stok, dan harga.
